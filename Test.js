@@ -19,3 +19,7 @@ function showStars(rows){
 }
 
 showStars(6);
+
+const a1 = 4;
+const b1 = 8;
+console.log(a1-b1);
